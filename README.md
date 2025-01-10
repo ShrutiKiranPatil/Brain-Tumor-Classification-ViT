@@ -50,3 +50,5 @@ Contributions to this project are welcome. Please feel free to fork the reposito
 * Om Jadhav
 * Khushi Deshmukh
 * Atharv Kabade
+
+Download : [here](https://github.com/ShrutiKiranPatil/Brain-Tumor-Classification-ViT/releases/tag/v0.1)
